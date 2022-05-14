@@ -1,9 +1,13 @@
-import Form from "./components/form";
+// import Form from "./components/form";
+// import Bob from "./components/bob";
+import Spinner from "./components/spinner";
 
 function App() {
   return (
     <div>
-      <Form />
+      {/* <Form /> */}
+      {/* <Bob /> */}
+      <Spinner />
     </div>
   );
 }
